@@ -22,7 +22,7 @@ There are many variations of the GA, e.g. different selection methods, different
 
 GAs are inspired by the process of natural selection in evolution. Their performance is usually much better than brute force algorithms, but they are not guaranteed to find the optimal solution, and usually perform worse than problem-specific algorithms. Still, they are very valuable general-purpose optimization algorithms, especially for problems that do not have a known solution.
 
-What I find most interesting about GAs is their inspriation by nature. The idea of using a GA to train an ANN is especially interesting, because it is a combination of two different ideas inspired by nature (evolution and the brain).
+What I find most interesting about GAs is their inspiration by nature. The idea of using a GA to train an ANN is especially interesting, because it is a combination of two different ideas inspired by nature (evolution and the brain).
 
 ## Data
 
